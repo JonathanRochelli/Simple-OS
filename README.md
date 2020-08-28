@@ -1,4 +1,4 @@
-# simpleOS
+# Simple OS
 
 ### Le bootloader
 Lors de démarrage de l'ordinateur, le BIOS (ou UEFI) va réaliser des vérifications des composants matériels de la machine.
